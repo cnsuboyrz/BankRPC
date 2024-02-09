@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyjCzWXq6bakgxVYDvNjBspC8RDRkgLrAEX+4HlC8b7FRhpVK4Sa1notJBZQPyCEhRfc+v8Um91reSfwEOo+rA==",
+  "success": true,
+  "projectFilePath": "D:\\toshiba resimler\\calisma\\BankaRpc\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\cansu\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\cansu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cansu\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
